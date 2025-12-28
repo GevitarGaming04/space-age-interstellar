@@ -1,0 +1,15 @@
+{
+    "name": "space-age-interstellar",
+    "version": "0.1.0",
+    "title": "Space Age: Interstellar",
+    "author": "gevitar04",
+    "homepage": "https://github.com/GevitarGaming04/space-age-interstellar",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "space-age"],
+    "quality_required": true,
+    "rail_bridges_required": true,
+    "spoiling_required": true,
+    "freezing_required": true,
+    "segmented_units_required": true,
+    "space_travel_required": true
+}
