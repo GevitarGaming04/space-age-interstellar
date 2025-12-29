@@ -5,7 +5,11 @@
     "author": "gevitar04",
     "homepage": "https://github.com/GevitarGaming04/space-age-interstellar",
     "factorio_version": "2.0",
-    "dependencies": ["base >= 2.0", "space-age"],
+    "dependencies": [
+        "base",
+        "space-age",
+        "PlanetsLib >= 1.14.7"
+    ],
     "quality_required": true,
     "rail_bridges_required": true,
     "spoiling_required": true,
